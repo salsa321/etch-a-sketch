@@ -1,0 +1,16 @@
+#container {
+    border: 10px solid red;
+    padding: 20px;
+    margin: 10px 100px;
+}
+
+.row {
+    border: 2px solid black;
+    display: flex;
+    height: 50px;
+}
+
+.squares {
+    border : 2px solid grey;
+    flex: 1 1 0;
+}
